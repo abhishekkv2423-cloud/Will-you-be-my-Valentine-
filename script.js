@@ -57,7 +57,8 @@ const messages = [
     "Are you sure?",
     "Paapu please...",
     "If you say no, I will be really sad...",
-    "say yes please! ❤️"
+    "say yes please! ❤️",
+    "Joey beta... convince her",
     "I will be very sad...",
     "I will be very very very sad...",
     "Please...",
